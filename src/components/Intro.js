@@ -7,7 +7,8 @@ export default function Intro() {
                 backgroundColor: "#007DB3",
                 color: "#black",
                 marginTop: "10px",
-                borderRadius: "25px"
+                borderRadius: "25px",
+                textAlign: "center"
             }} className="hero column col-11 col-xs-12 container">
                 <div className="hero-body">
                     <h1>Welcome to My Portfolio!</h1>

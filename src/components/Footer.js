@@ -4,7 +4,9 @@ export default function Footer() {
     return (
         <footer id="footer" className="hero column col-12 col-xs-12 container" style={{
             backgroundColor: "#16b9ff",
-            marginTop: "10px"
+            marginTop: "10px",
+            textAlign: "center",
+            textSizeAdjust: "150px"
         }}>
             <div className="hero-body">
                 <h1>Contact</h1>
