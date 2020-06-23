@@ -6,7 +6,7 @@ export default function Footer() {
             backgroundColor: "#16b9ff",
             marginTop: "10px",
             textAlign: "center",
-            textSizeAdjust: "150px"
+            textSizeAdjust: "1000px"
         }}>
             <div className="hero-body">
                 <h1>Contact</h1>
