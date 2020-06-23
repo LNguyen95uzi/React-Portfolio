@@ -11,3 +11,9 @@ I built this project to further enhance my recently acquired coding skills and t
 Thank you,
 LPN
 
+## How to Use
+
+Click on the deployed link provided!
+
+## License 
+MIT
