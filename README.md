@@ -17,3 +17,5 @@ Click on the deployed link provided!
 
 ## License 
 MIT
+
+permalink: /index.html
