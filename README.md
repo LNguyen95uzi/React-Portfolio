@@ -2,8 +2,6 @@
 
 This is my portfolio to showcase myself and my work as a student of web development to the world! Now using React!
 
-[Deployed Link](https://lnguyen95uzi.github.io/React-Portfolio/)
-
 ## Info
 
 This website was constructed using bootstrap to include a responsive layout, respnsive images, and a sticky footer.
@@ -13,8 +11,3 @@ I built this project to further enhance my recently acquired coding skills and t
 Thank you,
 LPN
 
-## Screenshots
-
-![SC1](/assets/port1.png)
-![SC2](/assets/port2.png)
-![SC3](/assets/port3.png)
